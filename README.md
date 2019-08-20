@@ -1,4 +1,4 @@
-# final-burgers-app
+# Burgers Application
 
 The burgers app uses Node, Handlebars, MySQL, and Express to create a burger logger as a web application.  This application creates new burgers waiting to be eaten or sent to an already devoured pile.  The user submits a burger on the bottom of the page specifying whether it has been eaten or not using a radio button.  All of the burgers created are stored into a MySQL database with a boolean value of "devoured" set to true if eaten and false if the burger is waiting to be eaten.
 Here is a snippet of the database creation and inserted default burgers:
